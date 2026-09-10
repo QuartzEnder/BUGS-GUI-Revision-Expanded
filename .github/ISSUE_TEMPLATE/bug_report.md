@@ -23,7 +23,7 @@ Add screenshots to help explain your problem.
 Please list here these info:
 - UI layout setting (either Pocket UI or Classic UI
 - input type (touch, controller, or keyboard and mouse)
-- pack setting subpack (vanilla hotbar or full features). By omitting this I'll assume it's the full feature subpack
+- pack setting subpack (light or dark mode). By omitting this I'll assume it's the dark mode
 
 **Additional context**
 Add any other context about the problem here.
